@@ -1,8 +1,9 @@
-# demineur
+# Démineur
 
-Jeu classique démineur(MineSweeper) programmé en Javascript
+Jeu classique de démineur (MineSweeper) programmé en Javascript.
+Projet scolaire réalisé avec @francisboudreau7
 
 
-Essayer ici:codeboot.org
-mettre le code dans un nouveau fichier
-puis faire l'appel demineur(largeur,hauteur,nombre de mines)
+Essayez ici : codeboot.org
+Mettre demineur.js et images.js dans deux fichiers distincts.
+L'appel demineur(largeur, hauteur, nombre de mines) se trouve à la fin de demineur.js
